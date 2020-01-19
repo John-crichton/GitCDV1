@@ -1,3 +1,16 @@
 p {
     color: blue;
 }
+.header {
+    color: black;
+    font-size: medium;
+    background-color: grey;
+
+}
+body {
+    font-family: 'Special Elite', cursive;
+    back
+  }
+  * {
+    box-sizing: border-box;
+  }
