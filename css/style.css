@@ -49,7 +49,7 @@ li {
     margin-top: 0;
 }
 
-h5 {
+h5, h4 {
     box-sizing: border-box;
     vertical-align: baseline;
     margin: 0;
@@ -60,7 +60,7 @@ h5 {
     font-weight: 400;
     font-size: 2.39rem;
     line-height: 1.5;
-    color: #00b6dc;
+    color: red;
     margin-top: 0;
 }
 
